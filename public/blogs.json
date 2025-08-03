@@ -2,10 +2,10 @@
   {
     "id": 1,
     "name": "Tech Trends 2025",
-    "bloges_cover": "https://example.com/images/tech-trends.jpg",
+    "cover": "https://i.ibb.co/tP8mmS0c/1.jpg",
     "title": "Top 10 Tech Trends to Watch in 2025",
     "author": "Jane Doe",
-    "author_img": "https://example.com/images/authors/jane.jpg",
+    "author_img": "https://i.ibb.co/tnPByN1/boy1.png",
     "posted_date": "2025-07-15",
     "reading_time": 6,
     "hashtags": ["#Technology", "#Trends", "#FutureTech"]
@@ -13,10 +13,10 @@
   {
     "id": 2,
     "name": "Healthy Living Guide",
-    "bloges_cover": "https://example.com/images/healthy-living.jpg",
+    "cover": "https://i.ibb.co/Vct8W82d/2.png",
     "title": "Your Guide to a Healthier Lifestyle",
     "author": "John Smith",
-    "author_img": "https://example.com/images/authors/john.jpg",
+    "author_img": "https://i.ibb.co/bRFZ7S1n/boy2.jpg",
     "posted_date": "2025-06-22",
     "reading_time": 8,
     "hashtags": ["#Health", "#Lifestyle", "#Wellness"]
@@ -24,10 +24,10 @@
   {
     "id": 3,
     "name": "Design Principles",
-    "bloges_cover": "https://example.com/images/design-principles.jpg",
+    "cover": "https://i.ibb.co/6cvw69y1/3.png",
     "title": "Mastering the Basics of Good Design",
     "author": "Emily Clark",
-    "author_img": "https://example.com/images/authors/emily.jpg",
+    "author_img": "https://i.ibb.co/YT3tZ4DN/girl1.jpg",
     "posted_date": "2025-07-01",
     "reading_time": 5,
     "hashtags": ["#Design", "#UIUX", "#Creativity"]
@@ -35,23 +35,14 @@
   {
     "id": 4,
     "name": "Remote Work Culture",
-    "bloges_cover": "https://example.com/images/remote-work.jpg",
+    "cover": "https://i.ibb.co/fYvLLqx7/4.jpg",
     "title": "Building Strong Teams in a Remote World",
     "author": "Michael Tan",
-    "author_img": "https://example.com/images/authors/michael.jpg",
+    "author_img": "https://i.ibb.co/chfW3TKb/9840687.jpg",
     "posted_date": "2025-06-10",
     "reading_time": 7,
     "hashtags": ["#RemoteWork", "#Culture", "#Teams"]
-  },
-  {
-    "id": 5,
-    "name": "AI in Education",
-    "bloges_cover": "https://example.com/images/ai-education.jpg",
-    "title": "How AI is Changing the Classroom",
-    "author": "Sofia Lee",
-    "author_img": "https://example.com/images/authors/sofia.jpg",
-    "posted_date": "2025-07-28",
-    "reading_time": 6,
-    "hashtags": ["#AI", "#Education", "#EdTech"]
   }
 ]
+
+
