@@ -17,8 +17,8 @@ function App() {
       const newReadingTime = readinge + time;
       setReadin(newReadingTime);
 
-      const remainingBookmarks = bookmarks.filter(bookmarks => bookmarks.id !==id);
-      setBookmarks(remainingBookmarks)
+      const remainingBookmarks = bookmarks.filter(bookmark => bookmark.id !==id);
+      setBookmarks(remainingBookmarks);
     } 
   
   return (
@@ -28,6 +28,7 @@ function App() {
       <Blogs  handleMarkAsRead={handleMarkAsRead} handleAddToBookmark={handleAddToBookmark}></Blogs>
       <Bookmarks bookmarks={bookmarks} readinge={readinge}></Bookmarks>
     </main>
+    
     </>
   )
 }
